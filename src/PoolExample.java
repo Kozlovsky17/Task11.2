@@ -55,4 +55,3 @@ public class PoolExample {
         executor.shutdown();
     }
 }
-© 2020 GitHub, Inc.
